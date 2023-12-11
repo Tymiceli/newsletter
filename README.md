@@ -1,4 +1,6 @@
-# newsletter
+# Newsletter
+
+Welcome to ByteSized Breakdown, your weekly update of all things tech!
 
 This is a newsletter template built that I can use for any creator, blogger, or business.
 
